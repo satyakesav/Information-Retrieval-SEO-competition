@@ -1,4 +1,4 @@
-# Information-Retrieval-SEO-competition
+# Information-Retrieval-SEO-competition [sajfd hfafbjhd]
 This repo is for the CSCE 670 Information Retrieval course SEO competition
 
 The person who has created this repo is sajfd hfafbjhd.
